@@ -13,6 +13,8 @@ pnpm dev
 # or
 bun dev
 ```
+http://localhost:3000/login - User Giriş
+http://localhost:3000/admin/login - Admin Giriş
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
